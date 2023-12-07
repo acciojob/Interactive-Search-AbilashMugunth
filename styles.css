@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+.search{
+	width:30rem;
+	height:30rem;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	background-color:blue
+}
+
+.active{
+  background-color: red;
+}
+
