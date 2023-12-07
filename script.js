@@ -1,1 +1,3 @@
-//your JS code here. If required.
+function fun() {
+  document.querySelector(".input").focus();
+}
